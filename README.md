@@ -2,7 +2,7 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendell-ramos&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendell-ramos&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguin20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### 🛠️ Tecnologias que trabalho!
@@ -28,7 +28,7 @@
 ##
 
 <div style="display: inline_block"> 
-  <a href="https://instagram.com/wendellramos05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thiagoh06_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>## Hi there 👋
 
 <!--
