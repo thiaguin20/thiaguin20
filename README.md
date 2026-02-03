@@ -1,9 +1,6 @@
 ## Olá eu sou o Thiago Henrique  👋
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiaguin20&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguin20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 ### 🛠️ Tecnologias que trabalho!
 
